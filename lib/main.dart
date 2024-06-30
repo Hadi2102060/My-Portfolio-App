@@ -13,7 +13,7 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Container(
-        decoration: BoxDecoration(
+        decoration:  BoxDecoration(
           image: DecorationImage(
             image: AssetImage("images/dark_theme.jpg"),
             fit: BoxFit.cover,
